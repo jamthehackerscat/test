@@ -1,4 +1,12 @@
 
+## [v1.2.1] - 2023-06-19
+### :wrench: Updates
+- [`db8e895`](https://github.com/jamthehackerscat/test/commit/db8e895b70290b8dbd2b4f5619a6c6aa78c46013) - added new row to  test-test file
+
+### :open_file_folder: Other Changes
+- [`057669e`](https://github.com/jamthehackerscat/test/commit/057669ea899618211a13e8d21a6d1feca3edb36d) - Merge branch 'main' of github.com:jamthehackerscat/test into main
+
+
 ## [v1.2.0] - 2023-06-19
 ### :sparkles: New Policies
 - [`bdbe41a`](https://github.com/jamthehackerscat/test/commit/bdbe41a87f8e8c449f723975abc697f3dbfec8ba) - added new policy test-test.yml *(commit by [@jamthehackerscat](https://github.com/jamthehackerscat))*
@@ -29,3 +37,4 @@
 
 
 [v1.2.0]: https://github.com/jamthehackerscat/test/compare/v1.1.0...v1.2.0
+[v1.2.1]: https://github.com/jamthehackerscat/test/compare/v1.2.0...v1.2.1
