@@ -21,18 +21,13 @@ jobs:
         with:
           token: ${{ github.token }}
           tag: ${{ github.ref_name }}
-          writeToFile: false
+          writeToFile: true
           includeInvalidCommits: true
           excludeTypes: ""
-      - name: Create Release
-        id: create_release
-        uses: actions/create-release@latest
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
+      - name: Commit CHANGELOG.md
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          tag_name: ${{ github.ref }}
-          release_name: Release ${{ github.ref }}
-          body: |
-            ${{ steps.changelog.outputs.changes }}
-          draft: false
-          prerelease: false
+          branch: main
+          commit_message: 'docs: update CHANGELOG.md for ${{ github.ref_name }}'
+          file_pattern: CHANGELOG.md
+          reverseOrder: true
