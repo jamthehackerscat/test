@@ -13,17 +13,27 @@ jobs:
     name: Create Release
     runs-on: ubuntu-latest
     steps:
+
       - name: Checkout code
         uses: actions/checkout@v3
+
+      - name: Checkout action
+        uses: actions/checkout@v3
+        repository: jamthehackerscat/changelog-action
+        token: ${{ secrets.GIT_TOKEN }}
+        path: ${{ runner.temp }}/changelog-action
+        ref: main
+
       - name: Changelog
         id: changelog
-        uses: jamthehackerscat/changelog-action@main
+        uses: ${{ runner.temp }}/changelog-action
         with:
           token: ${{ github.token }}
           tag: ${{ github.ref_name }}
           writeToFile: true
           includeInvalidCommits: true
           excludeTypes: ""
+
       - name: Commit CHANGELOG.md
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
