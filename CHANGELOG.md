@@ -1,4 +1,9 @@
 
+## [v1.2.2] - 2023-06-23
+### :wrench: Updates
+- [`017a944`](https://github.com/jamthehackerscat/test/commit/017a944bfe8029cbf93bff490b4c3c166e7d3911) - added 'new2' line to 'test-test.yml' file
+
+
 ## [v1.2.1] - 2023-06-19
 ### :wrench: Updates
 - [`db8e895`](https://github.com/jamthehackerscat/test/commit/db8e895b70290b8dbd2b4f5619a6c6aa78c46013) - added new row to  test-test file
@@ -38,3 +43,4 @@
 
 [v1.2.0]: https://github.com/jamthehackerscat/test/compare/v1.1.0...v1.2.0
 [v1.2.1]: https://github.com/jamthehackerscat/test/compare/v1.2.0...v1.2.1
+[v1.2.2]: https://github.com/jamthehackerscat/test/compare/v1.2.1...v1.2.2
