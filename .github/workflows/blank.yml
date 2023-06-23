@@ -21,12 +21,12 @@ jobs:
         uses: actions/checkout@v3
         repository: jamthehackerscat/changelog-action
         token: ${{ secrets.GIT_TOKEN }}
-        path: ../.private-changelog-action
+        path: changelog-action
         ref: main
 
       - name: Changelog
         id: changelog
-        uses: ../.private-changelog-action
+        uses: ./changelog-action
         with:
           token: ${{ github.token }}
           tag: ${{ github.ref_name }}
