@@ -1,4 +1,9 @@
 
+## [v1.3.0] - 2023-06-26
+### :wrench: Updates
+- [`9ec036e`](https://github.com/jamthehackerscat/test/commit/9ec036e22a8b7b8c64004beea10d127f67ed6068) - added path to glab
+
+
 ## [v1.2.2] - 2023-06-23
 ### :wrench: Updates
 - [`017a944`](https://github.com/jamthehackerscat/test/commit/017a944bfe8029cbf93bff490b4c3c166e7d3911) - added 'new2' line to 'test-test.yml' file
@@ -44,3 +49,4 @@
 [v1.2.0]: https://github.com/jamthehackerscat/test/compare/v1.1.0...v1.2.0
 [v1.2.1]: https://github.com/jamthehackerscat/test/compare/v1.2.0...v1.2.1
 [v1.2.2]: https://github.com/jamthehackerscat/test/compare/v1.2.1...v1.2.2
+[v1.3.0]: https://github.com/jamthehackerscat/test/compare/v1.2.2...v1.3.0
