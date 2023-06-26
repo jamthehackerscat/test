@@ -33,7 +33,7 @@ jobs:
           excludeTypes: ""
 
       - name: Commit CHANGELOG.md
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: ./ecc-actions/git-auto-commit-action
         with:
           branch: main
           commit_message: 'docs: update CHANGELOG.md for ${{ github.ref_name }}'
