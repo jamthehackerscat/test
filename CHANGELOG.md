@@ -1,4 +1,9 @@
 
+## [v1.3.1] - 2023-06-26
+### :wrench: Updates
+- [`a1b7e89`](https://github.com/jamthehackerscat/test/commit/a1b7e8993a09fffcd4cf9dd2fa1dc9376d305bde) - added path to auto-commit
+
+
 ## [v1.3.0] - 2023-06-26
 ### :wrench: Updates
 - [`9ec036e`](https://github.com/jamthehackerscat/test/commit/9ec036e22a8b7b8c64004beea10d127f67ed6068) - added path to glab
@@ -50,3 +55,4 @@
 [v1.2.1]: https://github.com/jamthehackerscat/test/compare/v1.2.0...v1.2.1
 [v1.2.2]: https://github.com/jamthehackerscat/test/compare/v1.2.1...v1.2.2
 [v1.3.0]: https://github.com/jamthehackerscat/test/compare/v1.2.2...v1.3.0
+[v1.3.1]: https://github.com/jamthehackerscat/test/compare/v1.3.0...v1.3.1
