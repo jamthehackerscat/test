@@ -6,7 +6,7 @@
 
 ## [v1.3.0] - 2023-06-26
 ### :wrench: Updates
-- [`9ec036e`](https://github.com/jamthehackerscat/test/commit/9ec036e22a8b7b8c64004beea10d127f67ed6068) - added path to glab
+- [`9ec036e`](https://github.com/jamthehackerscat/test/commit/9ec036e22a8b7b8c64004beea10d127f67ed6068) - added policies 012, 013, 234, 163, 540, 540, 385, 967, 385, 390, 346, 234, 385, 395, 379, 496, 469, 385, 569, 355
 
 
 ## [v1.2.2] - 2023-06-23
