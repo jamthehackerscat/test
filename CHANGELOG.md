@@ -1,4 +1,15 @@
 
+## [v1.3.2] - 2023-07-04
+### :sparkles: New Policies
+- [`979b384`](https://github.com/jamthehackerscat/test/commit/979b38488776b6c3e796ed25363f54897d5ba297) - added smth1 file
+
+### :wrench: Updates
+- [`92d9385`](https://github.com/jamthehackerscat/test/commit/92d9385962f08410a2cd7722039c3b938641177e) - Update CHANGELOG.md *(commit by [@jamthehackerscat](https://github.com/jamthehackerscat))*
+
+### :open_file_folder: Other Changes
+- [`e26e03e`](https://github.com/jamthehackerscat/test/commit/e26e03e9f15b27eb2a5a0388b723f4e6c246570f) - Create smth.yml *(commit by [@jamthehackerscat](https://github.com/jamthehackerscat))*
+
+
 ## [v1.3.1] - 2023-06-26
 ### :wrench: Updates
 - [`a1b7e89`](https://github.com/jamthehackerscat/test/commit/a1b7e8993a09fffcd4cf9dd2fa1dc9376d305bde) - added path to auto-commit
@@ -56,3 +67,5 @@
 [v1.2.2]: https://github.com/jamthehackerscat/test/compare/v1.2.1...v1.2.2
 [v1.3.0]: https://github.com/jamthehackerscat/test/compare/v1.2.2...v1.3.0
 [v1.3.1]: https://github.com/jamthehackerscat/test/compare/v1.3.0...v1.3.1
+
+[v1.3.2]: https://github.com/jamthehackerscat/test/compare/v1.3.1...v1.3.2
