@@ -1,4 +1,10 @@
 
+## [v1.3.4] - 2023-08-16
+### :open_file_folder: Other Changes
+- [`2ff70cb`](https://github.com/jamthehackerscat/test/commit/2ff70cbca784c73c81d22ca2dc091f644e7b2b86) - Skip for chengelog commit
+- [`f0e53a0`](https://github.com/jamthehackerscat/test/commit/f0e53a0a5602a405da31a4f2e4174d1ae20798e6) - File for new branch
+
+
 ## [v1.3.2] - 2023-07-04
 ### :sparkles: New Policies
 - [`979b384`](https://github.com/jamthehackerscat/test/commit/979b38488776b6c3e796ed25363f54897d5ba297) - added smth1 file
@@ -69,3 +75,4 @@
 [v1.3.1]: https://github.com/jamthehackerscat/test/compare/v1.3.0...v1.3.1
 
 [v1.3.2]: https://github.com/jamthehackerscat/test/compare/v1.3.1...v1.3.2
+[v1.3.4]: https://github.com/jamthehackerscat/test/compare/v1.3.3...v1.3.4
