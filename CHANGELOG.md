@@ -1,4 +1,12 @@
 
+## [v1.4.0] - 2023-08-28
+### :sparkles: New Policies
+- [`1745185`](https://github.com/jamthehackerscat/test/commit/1745185a9e31b528f3ef3bff42897093902fa001) - added author file
+
+### :wrench: Updates
+- [`9361854`](https://github.com/jamthehackerscat/test/commit/9361854441f1eeb4a01a0ac02a31b325a8535451) - added line
+
+
 ## [v1.3.4] - 2023-08-16
 ### :open_file_folder: Other Changes
 - [`2ff70cb`](https://github.com/jamthehackerscat/test/commit/2ff70cbca784c73c81d22ca2dc091f644e7b2b86) - Skip for chengelog commit
@@ -76,3 +84,4 @@
 
 [v1.3.2]: https://github.com/jamthehackerscat/test/compare/v1.3.1...v1.3.2
 [v1.3.4]: https://github.com/jamthehackerscat/test/compare/v1.3.3...v1.3.4
+[v1.4.0]: https://github.com/jamthehackerscat/test/compare/v1.3.5...v1.4.0
