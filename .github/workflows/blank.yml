@@ -18,13 +18,16 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Checkout action
-        run: git clone -b main "https://git:$PROJECT_TOKEN@git.epam.com/epmc-sec/cloudlab/cloud_custodian/ecc-actions.git" ecc-actions
-        env:
-          PROJECT_TOKEN: ${{ secrets.ECC_ACTION }}
+        uses: actions/checkout@v3
+        with:
+          repository: jamthehackerscat/changelog-action
+          token: ${{ secrets.GIT_TOKEN }}
+          path: changelog-action
+          ref: main
 
       - name: Changelog
         id: changelog
-        uses: ./ecc-actions/changelog-action
+        uses: ./changelog-action
         with:
           token: ${{ github.token }}
           tag: ${{ github.ref_name }}
