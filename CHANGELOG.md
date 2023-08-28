@@ -1,4 +1,10 @@
 
+## [v1.4.1] - 2023-08-28
+### :wrench: Updates
+- [`acef293`](https://github.com/jamthehackerscat/test/commit/acef29349b58b2bfcb590c50f13d54981fb819a6) - deleted cat2 *(commit by [@jamthehackerscat](https://github.com/jamthehackerscat))*
+- [`b7478fc`](https://github.com/jamthehackerscat/test/commit/b7478fcfdb52d86b4c3eef7801a9b06e4c05243c) - added smth *(commit by [@jamthehackerscat](https://github.com/jamthehackerscat))*
+
+
 ## [v1.4.0] - 2023-08-28
 ### :sparkles: New Policies
 - [`1745185`](https://github.com/jamthehackerscat/test/commit/1745185a9e31b528f3ef3bff42897093902fa001) - added author file
@@ -85,3 +91,4 @@
 [v1.3.2]: https://github.com/jamthehackerscat/test/compare/v1.3.1...v1.3.2
 [v1.3.4]: https://github.com/jamthehackerscat/test/compare/v1.3.3...v1.3.4
 [v1.4.0]: https://github.com/jamthehackerscat/test/compare/v1.3.5...v1.4.0
+[v1.4.1]: https://github.com/jamthehackerscat/test/compare/v1.4.0...v1.4.1
