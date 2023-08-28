@@ -1,4 +1,9 @@
 
+## [v1.4.3] - 2023-08-28
+### :wrench: Updates
+- [`2dcaa84`](https://github.com/jamthehackerscat/test/commit/2dcaa844cba8a05e86f3a3554860332881686839) - added cat 3
+
+
 ## [v1.4.2] - 2023-08-28
 ### :wrench: Updates
 - [`85a4dd0`](https://github.com/jamthehackerscat/test/commit/85a4dd05a09fdc1f920d038248ea5bd19a91b562) - changed action repo *(commit by [@jamthehackerscat](https://github.com/jamthehackerscat))*
@@ -103,3 +108,4 @@
 [v1.4.0]: https://github.com/jamthehackerscat/test/compare/v1.3.5...v1.4.0
 [v1.4.1]: https://github.com/jamthehackerscat/test/compare/v1.4.0...v1.4.1
 [v1.4.2]: https://github.com/jamthehackerscat/test/compare/v1.4.1...v1.4.2
+[v1.4.3]: https://github.com/jamthehackerscat/test/compare/v1.4.2...v1.4.3
