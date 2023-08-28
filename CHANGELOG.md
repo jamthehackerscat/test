@@ -1,4 +1,14 @@
 
+## [v1.4.2] - 2023-08-28
+### :wrench: Updates
+- [`85a4dd0`](https://github.com/jamthehackerscat/test/commit/85a4dd05a09fdc1f920d038248ea5bd19a91b562) - changed action repo *(commit by [@jamthehackerscat](https://github.com/jamthehackerscat))*
+- [`4fcc6e7`](https://github.com/jamthehackerscat/test/commit/4fcc6e77eca36bf81b310a23bbbfe97ae4167cb6) - added cat2 *(commit by [@jamthehackerscat](https://github.com/jamthehackerscat))*
+- [`a3779a6`](https://github.com/jamthehackerscat/test/commit/a3779a648c6df46a4e619f8bd2ddb6b1ce8d173e) - updated commit action *(commit by [@jamthehackerscat](https://github.com/jamthehackerscat))*
+
+### :open_file_folder: Other Changes
+- [`a8107e4`](https://github.com/jamthehackerscat/test/commit/a8107e41d8178f3beaa6813eaed06cb4b1ac8b46) - Merge branch 'main' of github.com:jamthehackerscat/test into main *(commit by [@jamthehackerscat](https://github.com/jamthehackerscat))*
+
+
 ## [v1.4.1] - 2023-08-28
 ### :wrench: Updates
 - [`acef293`](https://github.com/jamthehackerscat/test/commit/acef29349b58b2bfcb590c50f13d54981fb819a6) - deleted cat2 *(commit by [@jamthehackerscat](https://github.com/jamthehackerscat))*
@@ -92,3 +102,4 @@
 [v1.3.4]: https://github.com/jamthehackerscat/test/compare/v1.3.3...v1.3.4
 [v1.4.0]: https://github.com/jamthehackerscat/test/compare/v1.3.5...v1.4.0
 [v1.4.1]: https://github.com/jamthehackerscat/test/compare/v1.4.0...v1.4.1
+[v1.4.2]: https://github.com/jamthehackerscat/test/compare/v1.4.1...v1.4.2
