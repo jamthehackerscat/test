@@ -1,4 +1,15 @@
 
+## [v1.5.2] - 2023-09-25
+### :wrench: Updates
+- [`3296ce4`](https://github.com/jamthehackerscat/test/commit/3296ce48392357a25d3e61a143ce2e96f572a5fb) - updated smth
+- [`83f5ee2`](https://github.com/jamthehackerscat/test/commit/83f5ee2c0da8ff7fa833fbff4cc24b7ff3782ffa) - updated piu
+
+### :open_file_folder: Other Changes
+- [`7c206e3`](https://github.com/jamthehackerscat/test/commit/7c206e36948503d21d8ab8081208bca213ab61a9) - Merge pull request [#5](https://github.com/jamthehackerscat/test/pull/5) from jamthehackerscat/changelog
+
+skip: Updated Changelog
+
+
 ## [v1.5.1] - 2023-09-25
 ### :sparkles: New Policies
 - [`887ed5c`](https://github.com/jamthehackerscat/test/commit/887ed5c730c5cd4361d560a80218345e3fc5a791) - added miu.txt
@@ -137,3 +148,4 @@ skip: Updated Changelog
 [v1.4.3]: https://github.com/jamthehackerscat/test/compare/v1.4.2...v1.4.3
 [v1.5.0]: https://github.com/jamthehackerscat/test/compare/v1.4.3...v1.5.0
 [v1.5.1]: https://github.com/jamthehackerscat/test/compare/v1.5.0...v1.5.1
+[v1.5.2]: https://github.com/jamthehackerscat/test/compare/v1.5.1...v1.5.2
