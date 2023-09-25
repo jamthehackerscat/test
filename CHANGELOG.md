@@ -1,4 +1,10 @@
 
+## [v1.5.3] - 2023-09-25
+### :wrench: Updates
+- [`64a5abb`](https://github.com/jamthehackerscat/test/commit/64a5abbc8efed1d9e3daa421bd15ac72cbdaa3d1) - updated blank
+- [`adba35f`](https://github.com/jamthehackerscat/test/commit/adba35fd76205c3055f8bd597204000ba86789a8) - updated new
+
+
 ## [v1.5.2] - 2023-09-25
 ### :wrench: Updates
 - [`3296ce4`](https://github.com/jamthehackerscat/test/commit/3296ce48392357a25d3e61a143ce2e96f572a5fb) - updated smth
@@ -149,3 +155,4 @@ skip: Updated Changelog
 [v1.5.0]: https://github.com/jamthehackerscat/test/compare/v1.4.3...v1.5.0
 [v1.5.1]: https://github.com/jamthehackerscat/test/compare/v1.5.0...v1.5.1
 [v1.5.2]: https://github.com/jamthehackerscat/test/compare/v1.5.1...v1.5.2
+[v1.5.3]: https://github.com/jamthehackerscat/test/compare/v1.5.2...v1.5.3
