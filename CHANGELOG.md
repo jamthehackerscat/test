@@ -1,4 +1,19 @@
 
+## [v1.5.1] - 2023-09-25
+### :sparkles: New Policies
+- [`887ed5c`](https://github.com/jamthehackerscat/test/commit/887ed5c730c5cd4361d560a80218345e3fc5a791) - added miu.txt
+
+### :wrench: Updates
+- [`3b5c70e`](https://github.com/jamthehackerscat/test/commit/3b5c70e6c7a71bfac47a72c5713df61e792b64a6) - updated miu file
+- [`1bc3221`](https://github.com/jamthehackerscat/test/commit/1bc32218e60534a3a78f157eb473081972cdc4cf) - updated new file
+
+### :open_file_folder: Other Changes
+- [`6e63d9b`](https://github.com/jamthehackerscat/test/commit/6e63d9bdbe4268aa7c495999e8ab61725ab9ae28) - Merge pull request [#4](https://github.com/jamthehackerscat/test/pull/4) from jamthehackerscat/changelog
+
+skip: Updated Changelog
+- [`0ca0cf2`](https://github.com/jamthehackerscat/test/commit/0ca0cf2b2745da42f2f0fe9cf1dbf467a7301827) - Merge branch 'main' of github.com:jamthehackerscat/test into main
+
+
 ## [v1.5.0] - 2023-09-25
 ### :wrench: Updates
 - [`2cff163`](https://github.com/jamthehackerscat/test/commit/2cff163c7c4cc199cd4b12b81a7be9799d9cc11f) - Update blank.yml
@@ -121,3 +136,4 @@
 [v1.4.2]: https://github.com/jamthehackerscat/test/compare/v1.4.1...v1.4.2
 [v1.4.3]: https://github.com/jamthehackerscat/test/compare/v1.4.2...v1.4.3
 [v1.5.0]: https://github.com/jamthehackerscat/test/compare/v1.4.3...v1.5.0
+[v1.5.1]: https://github.com/jamthehackerscat/test/compare/v1.5.0...v1.5.1
