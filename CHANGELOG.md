@@ -1,4 +1,14 @@
 
+## [v1.5.0] - 2023-09-25
+### :wrench: Updates
+- [`2cff163`](https://github.com/jamthehackerscat/test/commit/2cff163c7c4cc199cd4b12b81a7be9799d9cc11f) - Update blank.yml
+- [`7107e94`](https://github.com/jamthehackerscat/test/commit/7107e94187336e24af9e26a29de0202900170e73) - Update blank.yml
+- [`538153d`](https://github.com/jamthehackerscat/test/commit/538153d73d2b00fe84b04e6512bc4352983ea2a9) - Update blank.yml
+- [`677a2f0`](https://github.com/jamthehackerscat/test/commit/677a2f0bf8543d5e371c731a7c4f5deb511deb02) - Update blank.yml
+- [`6af3f69`](https://github.com/jamthehackerscat/test/commit/6af3f698edd426d9fc910ebfac6ba77869078f13) - Update blank.yml
+- [`6ecda3e`](https://github.com/jamthehackerscat/test/commit/6ecda3e2f65f6b5c14e08606654fec5dda47a1a7) - Update blank.yml
+
+
 ## [v1.4.3] - 2023-08-28
 ### :wrench: Updates
 - [`2dcaa84`](https://github.com/jamthehackerscat/test/commit/2dcaa844cba8a05e86f3a3554860332881686839) - added cat 3
@@ -109,3 +119,4 @@
 [v1.4.1]: https://github.com/jamthehackerscat/test/compare/v1.4.0...v1.4.1
 [v1.4.2]: https://github.com/jamthehackerscat/test/compare/v1.4.1...v1.4.2
 [v1.4.3]: https://github.com/jamthehackerscat/test/compare/v1.4.2...v1.4.3
+[v1.5.0]: https://github.com/jamthehackerscat/test/compare/v1.4.3...v1.5.0
