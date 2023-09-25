@@ -40,13 +40,13 @@ jobs:
         with:
           branch: changelog
           create_branch: true
-          commit_message: 'skip: update CHANGELOG.md for ${{ github.ref_name }}'
+          commit_message: 'Update CHANGELOG.md for ${{ github.ref_name }}'
           file_pattern: CHANGELOG.md
           reverseOrder: true
           excludeTypes: skip
 
       - name: create branch pull request
         run: |
-          gh pr create -B main -H changelog --title 'skip: Updated Changelog' --body 'Created by Github action'
+          gh pr create -B main -H changelog --title 'Updated Changelog' --body 'Created by Github action'
         env:
           GITHUB_TOKEN: ${{ github.token }}
