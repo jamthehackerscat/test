@@ -47,4 +47,4 @@ jobs:
       - name: create branch pull request
         run: "gh pr create -B changelog -H main --title 'skip: Updated Changelog' --body 'Created by Github action'"
         env:
-          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
