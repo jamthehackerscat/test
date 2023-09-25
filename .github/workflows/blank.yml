@@ -13,7 +13,6 @@ jobs:
     name: Create Release
     runs-on: ubuntu-latest
     steps:
-
       - name: Checkout code
         uses: actions/checkout@v3
 
@@ -38,8 +37,14 @@ jobs:
       - name: Commit CHANGELOG.md
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          branch: main
+          branch: changelog
+          create_branch: true
           commit_message: 'skip: update CHANGELOG.md for ${{ github.ref_name }}'
           file_pattern: CHANGELOG.md
           reverseOrder: true
           excludeTypes: skip
+
+      - name: create branch pull request
+        run: "gh pr create -B changelog -H main --title 'skip: Updated Changelog' --body 'Created by Github action'"
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
