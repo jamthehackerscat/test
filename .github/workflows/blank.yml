@@ -51,6 +51,6 @@ jobs:
           git pull
           git checkout changelog
           git pull
-          "gh pr create -B changelog -H main --title 'skip: Updated Changelog' --body 'Created by Github action'"
+          gh pr create -B changelog -H main --title 'skip: Updated Changelog' --body 'Created by Github action'
         env:
           GITHUB_TOKEN: ${{ github.token }}
