@@ -1,4 +1,11 @@
 
+## [v1.6.0] - 2023-09-26
+### :wrench: Updates
+- [`d6aa2bf`](https://github.com/jamthehackerscat/test/commit/d6aa2bf6fe96afc236201bc8862765c4231f0e12) - update CHANGELOG.md for v1.5.6
+- [`8dcee17`](https://github.com/jamthehackerscat/test/commit/8dcee17b5847efc0644495de25a5ef0cc2ead825) - Merge pull request [#9](https://github.com/jamthehackerscat/test/pull/9) from jamthehackerscat/changelog
+- [`9e841a9`](https://github.com/jamthehackerscat/test/commit/9e841a937534ab814ddccc2268bac57829128a1d) - updated new
+
+
 ## [v1.5.6] - 2023-09-26
 ### :wrench: Updates
 - [`96547d0`](https://github.com/jamthehackerscat/test/commit/96547d03a8f291cd303dab85a30429aff4dade8e) - update changelog this
@@ -179,3 +186,4 @@ skip: Updated Changelog
 [v1.5.3]: https://github.com/jamthehackerscat/test/compare/v1.5.2...v1.5.3
 [v1.5.4]: https://github.com/jamthehackerscat/test/compare/v1.5.3...v1.5.4
 [v1.5.6]: https://github.com/jamthehackerscat/test/compare/v1.5.5...v1.5.6
+[v1.6.0]: https://github.com/jamthehackerscat/test/compare/v1.5.6...v1.6.0
