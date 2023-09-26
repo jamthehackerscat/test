@@ -7,7 +7,6 @@ on:
 
 permissions:
   contents: 'write'
-  pull-requests: write
 
 jobs:
   build:
@@ -44,9 +43,3 @@ jobs:
           file_pattern: CHANGELOG.md
           reverseOrder: true
           excludeTypes: skip
-
-      - name: create branch pull request
-        run: |
-          gh pr create -B main -H changelog --title 'Updated Changelog' --body 'Created by Github action'
-        env:
-          GITHUB_TOKEN: ${{ github.token }}
