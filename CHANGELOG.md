@@ -1,4 +1,12 @@
 
+## [v1.5.4] - 2023-09-26
+### :wrench: Updates
+- [`2f38af0`](https://github.com/jamthehackerscat/test/commit/2f38af03b7a7b57c0f817b88344ea6a8ec884b82) - Update blank.yml
+
+### :open_file_folder: Other Changes
+- [`6c1f3e8`](https://github.com/jamthehackerscat/test/commit/6c1f3e845e4cf77258400afdb5d76d6fd302dd5c) - Update CHANGELOG.md for v1.5.3
+
+
 ## [v1.5.3] - 2023-09-25
 ### :wrench: Updates
 - [`64a5abb`](https://github.com/jamthehackerscat/test/commit/64a5abbc8efed1d9e3daa421bd15ac72cbdaa3d1) - updated blank
@@ -156,3 +164,4 @@ skip: Updated Changelog
 [v1.5.1]: https://github.com/jamthehackerscat/test/compare/v1.5.0...v1.5.1
 [v1.5.2]: https://github.com/jamthehackerscat/test/compare/v1.5.1...v1.5.2
 [v1.5.3]: https://github.com/jamthehackerscat/test/compare/v1.5.2...v1.5.3
+[v1.5.4]: https://github.com/jamthehackerscat/test/compare/v1.5.3...v1.5.4
