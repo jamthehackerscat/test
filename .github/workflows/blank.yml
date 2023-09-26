@@ -39,7 +39,7 @@ jobs:
         with:
           branch: changelog
           create_branch: true
-          commit_message: 'Update CHANGELOG.md for ${{ github.ref_name }}'
+          commit_message: 'upd: update CHANGELOG.md for ${{ github.ref_name }}'
           file_pattern: CHANGELOG.md
           reverseOrder: true
           excludeTypes: skip
