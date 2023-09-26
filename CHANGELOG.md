@@ -1,4 +1,17 @@
 
+## [v1.5.6] - 2023-09-26
+### :wrench: Updates
+- [`96547d0`](https://github.com/jamthehackerscat/test/commit/96547d03a8f291cd303dab85a30429aff4dade8e) - update changelog this
+- [`97688c6`](https://github.com/jamthehackerscat/test/commit/97688c60f31f5669dd9ff3e82185181b7c2b85f4) - update miu
+
+### :open_file_folder: Other Changes
+- [`07136a0`](https://github.com/jamthehackerscat/test/commit/07136a0b8cc351518917a464fff822d0c8aaa8d2) - Update CHANGELOG.md for v1.5.4
+- [`a12cc92`](https://github.com/jamthehackerscat/test/commit/a12cc928f7cdf02e15a39bead0aa8870b110cf5d) - Merge pull request [#8](https://github.com/jamthehackerscat/test/pull/8) from jamthehackerscat/changelog
+
+skip: Update CHANGELOG.md for v1.5.4
+- [`6482fd8`](https://github.com/jamthehackerscat/test/commit/6482fd8bbb4b9b9153fccd02c3b98dea5fe9c3e8) - Merge branch 'main' of github.com:jamthehackerscat/test into main
+
+
 ## [v1.5.4] - 2023-09-26
 ### :wrench: Updates
 - [`2f38af0`](https://github.com/jamthehackerscat/test/commit/2f38af03b7a7b57c0f817b88344ea6a8ec884b82) - Update blank.yml
@@ -165,3 +178,4 @@ skip: Updated Changelog
 [v1.5.2]: https://github.com/jamthehackerscat/test/compare/v1.5.1...v1.5.2
 [v1.5.3]: https://github.com/jamthehackerscat/test/compare/v1.5.2...v1.5.3
 [v1.5.4]: https://github.com/jamthehackerscat/test/compare/v1.5.3...v1.5.4
+[v1.5.6]: https://github.com/jamthehackerscat/test/compare/v1.5.5...v1.5.6
